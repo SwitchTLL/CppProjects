@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section4" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
+  <Project Name="Section4Challenge" Path="Section4Challenge/Section4Challenge.project" Active="No"/>
+  <Project Name="Section5" Path="Section5/Section5.project" Active="No"/>
+  <Project Name="Section5_Excs.1" Path="Section5_Excs.1/Section5_Excs.1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="FirstProgram" ConfigName="Debug"/>
+      <Project Name="Section4Challenge" ConfigName="Debug"/>
+      <Project Name="Section5" ConfigName="Debug"/>
+      <Project Name="Section5_Excs.1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="FirstProgram" ConfigName="Release"/>
+      <Project Name="Section4Challenge" ConfigName="Release"/>
+      <Project Name="Section5" ConfigName="Release"/>
+      <Project Name="Section5_Excs.1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

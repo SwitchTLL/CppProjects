@@ -38,7 +38,7 @@ int main(){
     
     cout << "=============================" << endl;
     
-        cout << "Maximum values: " << endl;
+    cout << "Maximum values: " << endl;
     cout << "char: " << CHAR_MAX << endl;
     cout << "int: " << INT_MAX << endl;
     cout << "short: " << SHRT_MAX << endl;

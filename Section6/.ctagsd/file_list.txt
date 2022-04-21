@@ -1,0 +1,6 @@
+C:\Users\apert\Documents\CppProjects\Section6\Sec6_Challenge\main.cpp
+C:\Users\apert\Documents\CppProjects\Section6\Sec6_contants\main.cpp
+C:\Users\apert\Documents\CppProjects\Section6\Section6_sizeof\main.cpp
+C:\Users\apert\Documents\CppProjects\Section6\Section6_Var_const\main.cpp
+C:\Users\apert\Documents\CppProjects\Section6\Section6\main.cpp
+C:\Users\apert\Documents\CppProjects\Section6\Section6_ex1\main.cpp

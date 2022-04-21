@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section6" Database="" Version="10000">
+  <Project Name="Sec6_Local_glob_var" Path="Section6_ex1/Section6_ex1.project" Active="No"/>
+  <Project Name="Section6" Path="Section6/Section6.project" Active="No"/>
+  <Project Name="Sec6_Primitive_types" Path="Section6_Var_const/Section6_Var_const.project" Active="No"/>
+  <Project Name="Section6_sizeof" Path="Section6_sizeof/Section6_sizeof.project" Active="No"/>
+  <Project Name="Sec6_constants" Path="Sec6_contants/Sec6_contants.project" Active="No"/>
+  <Project Name="Sec6_Challenge" Path="Sec6_Challenge/Sec6_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Section6" ConfigName="Debug"/>
+      <Project Name="Sec6_Local_glob_var" ConfigName="Debug"/>
+      <Project Name="Sec6_Primitive_types" ConfigName="Debug"/>
+      <Project Name="Section6_sizeof" ConfigName="Debug"/>
+      <Project Name="Sec6_constants" ConfigName="Debug"/>
+      <Project Name="Sec6_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Section6" ConfigName="Release"/>
+      <Project Name="Sec6_Local_glob_var" ConfigName="Release"/>
+      <Project Name="Sec6_Primitive_types" ConfigName="Release"/>
+      <Project Name="Section6_sizeof" ConfigName="Release"/>
+      <Project Name="Sec6_constants" ConfigName="Release"/>
+      <Project Name="Sec6_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

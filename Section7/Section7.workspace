@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section7" Database="" Version="10000">
+  <Project Name="Sec7_Arrays" Path="Sec7_Arrays/Sec7_Arrays.project" Active="No"/>
+  <Project Name="Sec7_Vectors" Path="Sec7_Vectors/Sec7_Vectors.project" Active="No"/>
+  <Project Name="Sec7_Challenge" Path="Sec7_Challenge/Sec7_Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Sec7_Arrays" ConfigName="Debug"/>
+      <Project Name="Sec7_Vectors" ConfigName="Debug"/>
+      <Project Name="Sec7_Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Sec7_Arrays" ConfigName="Release"/>
+      <Project Name="Sec7_Vectors" ConfigName="Release"/>
+      <Project Name="Sec7_Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

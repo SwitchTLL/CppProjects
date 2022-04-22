@@ -1,0 +1,3 @@
+C:\Users\apert\Documents\CppProjects\Section7\Sec7_Challenge\main.cpp
+C:\Users\apert\Documents\CppProjects\Section7\Sec7_Vectors\main.cpp
+C:\Users\apert\Documents\CppProjects\Section7\Sec7_Arrays\main.cpp
